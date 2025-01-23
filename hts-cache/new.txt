@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+16:36:58	25/25	---M--	200	added ('OK')	text/plain	etag:%229152d7f1724ed8fbcd2e0c87029f193c%22	https://omo-app.io/robots.txt		(from )
+16:36:58	15666/15666	---MCZ	200	added ('OK')	text/html	etag:W/%222a0144c6072f3785f48977eeb4be5ad9%22	https://omo-app.io/ob_social_proof_bl/	C:/Users/User1/Pictures/cpx/omo-app.io/ob_social_proof_bl/index.html	(from )
